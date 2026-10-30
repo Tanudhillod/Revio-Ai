@@ -1,0 +1,241 @@
+review_id,review_text,rating,branch,review_date,platform,source_type
+REV0001,Staff seemed rushed and did not respond when we asked for help.,2,Connaught Place,2026-09-05,Google,synthetic_demo_data
+REV0002,"Our order arrived late, although the staff apologized.",3,Dwarka,2026-10-24,Yelp,synthetic_demo_data
+REV0003,The team was friendly and welcoming.,3,Hauz Khas,2026-10-17,Tripadvisor,synthetic_demo_data
+REV0004,One item was missing from our takeaway order.,2,Noida Sector 18,2026-10-21,Google,synthetic_demo_data
+REV0005,Staff seemed rushed and did not respond when we asked for help.,3,Connaught Place,2026-09-06,Yelp,synthetic_demo_data
+REV0006,"Our order arrived late, although the staff apologized.",3,Dwarka,2026-10-16,Tripadvisor,synthetic_demo_data
+REV0007,Our table was sticky and had not been cleaned properly.,2,Hauz Khas,2026-09-04,Google,synthetic_demo_data
+REV0008,The bill included an unexpected charge.,3,Noida Sector 18,2026-10-13,Yelp,synthetic_demo_data
+REV0009,The food tasted fresh and was cooked perfectly.,5,Connaught Place,2026-10-11,Tripadvisor,synthetic_demo_data
+REV0010,The team was friendly and welcoming.,5,Dwarka,2026-10-24,Google,synthetic_demo_data
+REV0011,We received the wrong dish and had to ask for it to be replaced.,3,Hauz Khas,2026-09-26,Yelp,synthetic_demo_data
+REV0012,We received the wrong dish and had to ask for it to be replaced.,2,Noida Sector 18,2026-09-13,Tripadvisor,synthetic_demo_data
+REV0013,The pasta was cold when it reached our table.,2,Connaught Place,2026-09-06,Google,synthetic_demo_data
+REV0014,The server was polite and handled our request well.,5,Dwarka,2026-10-15,Yelp,synthetic_demo_data
+REV0015,The pasta was cold when it reached our table.,3,Hauz Khas,2026-10-16,Tripadvisor,synthetic_demo_data
+REV0016,"Food was good, but we waited 49 minutes for our order.",2,Noida Sector 18,2026-10-14,Google,synthetic_demo_data
+REV0017,Our table was sticky and had not been cleaned properly.,2,Connaught Place,2026-09-28,Yelp,synthetic_demo_data
+REV0018,The chicken was overcooked and quite dry.,2,Dwarka,2026-09-07,Tripadvisor,synthetic_demo_data
+REV0019,Everything we ordered arrived correctly.,5,Hauz Khas,2026-10-02,Google,synthetic_demo_data
+REV0020,The dining area and washroom were clean.,5,Noida Sector 18,2026-10-01,Yelp,synthetic_demo_data
+REV0021,Service was extremely slow during dinner. It took 38 minutes to get our food.,3,Connaught Place,2026-09-16,Tripadvisor,synthetic_demo_data
+REV0022,Staff seemed rushed and did not respond when we asked for help.,3,Dwarka,2026-09-13,Google,synthetic_demo_data
+REV0023,Great flavors and generous portions. I would visit again.,5,Hauz Khas,2026-09-07,Yelp,synthetic_demo_data
+REV0024,Staff seemed rushed and did not respond when we asked for help.,2,Noida Sector 18,2026-10-07,Tripadvisor,synthetic_demo_data
+REV0025,The server was polite and handled our request well.,3,Connaught Place,2026-09-06,Google,synthetic_demo_data
+REV0026,The server was polite and handled our request well.,5,Dwarka,2026-09-26,Yelp,synthetic_demo_data
+REV0027,Everything we ordered arrived correctly.,5,Hauz Khas,2026-09-28,Tripadvisor,synthetic_demo_data
+REV0028,One item was missing from our takeaway order.,2,Noida Sector 18,2026-09-17,Google,synthetic_demo_data
+REV0029,Great flavors and generous portions. I would visit again.,3,Connaught Place,2026-09-19,Yelp,synthetic_demo_data
+REV0030,The bill included an unexpected charge.,2,Dwarka,2026-10-09,Tripadvisor,synthetic_demo_data
+REV0031,The portion was small for the price.,2,Hauz Khas,2026-10-14,Google,synthetic_demo_data
+REV0032,The food tasted fresh and was cooked perfectly.,5,Noida Sector 18,2026-09-06,Yelp,synthetic_demo_data
+REV0033,The chicken was overcooked and quite dry.,2,Connaught Place,2026-10-15,Tripadvisor,synthetic_demo_data
+REV0034,The chicken was overcooked and quite dry.,2,Dwarka,2026-10-18,Google,synthetic_demo_data
+REV0035,Staff seemed rushed and did not respond when we asked for help.,2,Hauz Khas,2026-09-08,Yelp,synthetic_demo_data
+REV0036,The dining area and washroom were clean.,5,Noida Sector 18,2026-09-05,Tripadvisor,synthetic_demo_data
+REV0037,"Food was good, but we waited 40 minutes for our order.",2,Connaught Place,2026-10-07,Google,synthetic_demo_data
+REV0038,"Food was good, but we waited 30 minutes for our order.",3,Dwarka,2026-10-03,Yelp,synthetic_demo_data
+REV0039,The bill included an unexpected charge.,2,Hauz Khas,2026-10-04,Tripadvisor,synthetic_demo_data
+REV0040,"Our order arrived late, although the staff apologized.",3,Noida Sector 18,2026-10-23,Google,synthetic_demo_data
+REV0041,One item was missing from our takeaway order.,3,Connaught Place,2026-09-16,Yelp,synthetic_demo_data
+REV0042,One item was missing from our takeaway order.,2,Dwarka,2026-10-22,Tripadvisor,synthetic_demo_data
+REV0043,Everything we ordered arrived correctly.,5,Hauz Khas,2026-09-30,Google,synthetic_demo_data
+REV0044,One item was missing from our takeaway order.,2,Noida Sector 18,2026-09-02,Yelp,synthetic_demo_data
+REV0045,Staff seemed rushed and did not respond when we asked for help.,2,Connaught Place,2026-09-18,Tripadvisor,synthetic_demo_data
+REV0046,Our table was sticky and had not been cleaned properly.,2,Dwarka,2026-09-16,Google,synthetic_demo_data
+REV0047,The team was friendly and welcoming.,3,Hauz Khas,2026-10-04,Yelp,synthetic_demo_data
+REV0048,Great flavors and generous portions. I would visit again.,5,Noida Sector 18,2026-09-03,Tripadvisor,synthetic_demo_data
+REV0049,The food tasted fresh and was cooked perfectly.,5,Connaught Place,2026-10-23,Google,synthetic_demo_data
+REV0050,The portion was small for the price.,2,Dwarka,2026-09-17,Yelp,synthetic_demo_data
+REV0051,Great flavors and generous portions. I would visit again.,5,Hauz Khas,2026-09-30,Tripadvisor,synthetic_demo_data
+REV0052,We received the wrong dish and had to ask for it to be replaced.,2,Noida Sector 18,2026-10-25,Google,synthetic_demo_data
+REV0053,The floor near our table was dirty.,2,Connaught Place,2026-09-07,Yelp,synthetic_demo_data
+REV0054,The chicken was overcooked and quite dry.,2,Dwarka,2026-10-13,Tripadvisor,synthetic_demo_data
+REV0055,Everything we ordered arrived correctly.,5,Hauz Khas,2026-09-21,Google,synthetic_demo_data
+REV0056,The portion was small for the price.,3,Noida Sector 18,2026-09-14,Yelp,synthetic_demo_data
+REV0057,The team was friendly and welcoming.,5,Connaught Place,2026-09-21,Tripadvisor,synthetic_demo_data
+REV0058,Staff seemed rushed and did not respond when we asked for help.,2,Dwarka,2026-09-11,Google,synthetic_demo_data
+REV0059,The server was polite and handled our request well.,5,Hauz Khas,2026-09-24,Yelp,synthetic_demo_data
+REV0060,"Food was good, but we waited 30 minutes for our order.",3,Noida Sector 18,2026-09-13,Tripadvisor,synthetic_demo_data
+REV0061,The floor near our table was dirty.,2,Connaught Place,2026-10-22,Google,synthetic_demo_data
+REV0062,The floor near our table was dirty.,2,Dwarka,2026-09-11,Yelp,synthetic_demo_data
+REV0063,The server was polite and handled our request well.,3,Hauz Khas,2026-09-24,Tripadvisor,synthetic_demo_data
+REV0064,The portion was small for the price.,2,Noida Sector 18,2026-09-22,Google,synthetic_demo_data
+REV0065,One item was missing from our takeaway order.,2,Connaught Place,2026-09-29,Yelp,synthetic_demo_data
+REV0066,The portion was small for the price.,2,Dwarka,2026-09-02,Tripadvisor,synthetic_demo_data
+REV0067,The floor near our table was dirty.,3,Hauz Khas,2026-10-12,Google,synthetic_demo_data
+REV0068,Good value for money and reasonable prices.,4,Noida Sector 18,2026-10-03,Yelp,synthetic_demo_data
+REV0069,Staff seemed rushed and did not respond when we asked for help.,2,Connaught Place,2026-10-17,Tripadvisor,synthetic_demo_data
+REV0070,"Food was good, but we waited 33 minutes for our order.",2,Dwarka,2026-10-16,Google,synthetic_demo_data
+REV0071,The food tasted fresh and was cooked perfectly.,5,Hauz Khas,2026-10-22,Yelp,synthetic_demo_data
+REV0072,The floor near our table was dirty.,2,Noida Sector 18,2026-09-23,Tripadvisor,synthetic_demo_data
+REV0073,The pasta was cold when it reached our table.,2,Connaught Place,2026-09-16,Google,synthetic_demo_data
+REV0074,The food tasted fresh and was cooked perfectly.,5,Dwarka,2026-09-14,Yelp,synthetic_demo_data
+REV0075,The team was friendly and welcoming.,3,Hauz Khas,2026-09-27,Tripadvisor,synthetic_demo_data
+REV0076,The chicken was overcooked and quite dry.,2,Noida Sector 18,2026-10-16,Google,synthetic_demo_data
+REV0077,"The restaurant was busy, but the wait was longer than expected.",3,Connaught Place,2026-09-09,Yelp,synthetic_demo_data
+REV0078,The food tasted fresh and was cooked perfectly.,3,Dwarka,2026-09-07,Tripadvisor,synthetic_demo_data
+REV0079,"Food was good, but we waited 30 minutes for our order.",3,Hauz Khas,2026-09-24,Google,synthetic_demo_data
+REV0080,The dining area and washroom were clean.,5,Noida Sector 18,2026-09-22,Yelp,synthetic_demo_data
+REV0081,Everything we ordered arrived correctly.,5,Connaught Place,2026-09-30,Tripadvisor,synthetic_demo_data
+REV0082,The pasta was cold when it reached our table.,3,Dwarka,2026-09-14,Google,synthetic_demo_data
+REV0083,The floor near our table was dirty.,3,Hauz Khas,2026-09-01,Yelp,synthetic_demo_data
+REV0084,One item was missing from our takeaway order.,2,Noida Sector 18,2026-09-06,Tripadvisor,synthetic_demo_data
+REV0085,Service was extremely slow during dinner. It took 53 minutes to get our food.,3,Connaught Place,2026-10-17,Google,synthetic_demo_data
+REV0086,The bill included an unexpected charge.,2,Dwarka,2026-10-24,Yelp,synthetic_demo_data
+REV0087,Staff seemed rushed and did not respond when we asked for help.,2,Hauz Khas,2026-10-11,Tripadvisor,synthetic_demo_data
+REV0088,We received the wrong dish and had to ask for it to be replaced.,2,Noida Sector 18,2026-09-29,Google,synthetic_demo_data
+REV0089,Great flavors and generous portions. I would visit again.,5,Connaught Place,2026-09-14,Yelp,synthetic_demo_data
+REV0090,The food tasted fresh and was cooked perfectly.,5,Dwarka,2026-09-27,Tripadvisor,synthetic_demo_data
+REV0091,The food tasted fresh and was cooked perfectly.,5,Hauz Khas,2026-10-11,Google,synthetic_demo_data
+REV0092,We received the wrong dish and had to ask for it to be replaced.,2,Noida Sector 18,2026-10-08,Yelp,synthetic_demo_data
+REV0093,The bill included an unexpected charge.,2,Connaught Place,2026-10-13,Tripadvisor,synthetic_demo_data
+REV0094,We received the wrong dish and had to ask for it to be replaced.,2,Dwarka,2026-10-17,Google,synthetic_demo_data
+REV0095,Staff seemed rushed and did not respond when we asked for help.,2,Hauz Khas,2026-09-04,Yelp,synthetic_demo_data
+REV0096,The server was polite and handled our request well.,5,Noida Sector 18,2026-09-12,Tripadvisor,synthetic_demo_data
+REV0097,The team was friendly and welcoming.,5,Connaught Place,2026-10-05,Google,synthetic_demo_data
+REV0098,The server was polite and handled our request well.,5,Dwarka,2026-09-05,Yelp,synthetic_demo_data
+REV0099,Great flavors and generous portions. I would visit again.,5,Hauz Khas,2026-09-23,Tripadvisor,synthetic_demo_data
+REV0100,Staff seemed rushed and did not respond when we asked for help.,2,Noida Sector 18,2026-10-14,Google,synthetic_demo_data
+REV0101,"Our order arrived late, although the staff apologized.",3,Connaught Place,2026-09-03,Yelp,synthetic_demo_data
+REV0102,Our table was sticky and had not been cleaned properly.,2,Dwarka,2026-09-10,Tripadvisor,synthetic_demo_data
+REV0103,The dining area and washroom were clean.,5,Hauz Khas,2026-10-11,Google,synthetic_demo_data
+REV0104,The team was friendly and welcoming.,5,Noida Sector 18,2026-09-28,Yelp,synthetic_demo_data
+REV0105,The bill included an unexpected charge.,3,Connaught Place,2026-10-10,Tripadvisor,synthetic_demo_data
+REV0106,Our table was sticky and had not been cleaned properly.,2,Dwarka,2026-09-24,Google,synthetic_demo_data
+REV0107,The floor near our table was dirty.,2,Hauz Khas,2026-10-15,Yelp,synthetic_demo_data
+REV0108,Great flavors and generous portions. I would visit again.,5,Noida Sector 18,2026-09-21,Tripadvisor,synthetic_demo_data
+REV0109,"The restaurant was busy, but the wait was longer than expected.",2,Connaught Place,2026-10-01,Google,synthetic_demo_data
+REV0110,One item was missing from our takeaway order.,2,Dwarka,2026-10-11,Yelp,synthetic_demo_data
+REV0111,Good value for money and reasonable prices.,4,Hauz Khas,2026-09-08,Tripadvisor,synthetic_demo_data
+REV0112,Good value for money and reasonable prices.,4,Noida Sector 18,2026-10-10,Google,synthetic_demo_data
+REV0113,Service was extremely slow during dinner. It took 51 minutes to get our food.,1,Connaught Place,2026-09-07,Yelp,synthetic_demo_data
+REV0114,Our table was sticky and had not been cleaned properly.,3,Dwarka,2026-10-08,Tripadvisor,synthetic_demo_data
+REV0115,Everything we ordered arrived correctly.,5,Hauz Khas,2026-10-24,Google,synthetic_demo_data
+REV0116,One item was missing from our takeaway order.,2,Noida Sector 18,2026-09-17,Yelp,synthetic_demo_data
+REV0117,Staff seemed rushed and did not respond when we asked for help.,2,Connaught Place,2026-09-03,Tripadvisor,synthetic_demo_data
+REV0118,Great flavors and generous portions. I would visit again.,3,Dwarka,2026-10-17,Google,synthetic_demo_data
+REV0119,The portion was small for the price.,2,Hauz Khas,2026-10-05,Yelp,synthetic_demo_data
+REV0120,The portion was small for the price.,3,Noida Sector 18,2026-09-02,Tripadvisor,synthetic_demo_data
+REV0121,"The restaurant was busy, but the wait was longer than expected.",3,Connaught Place,2026-09-01,Google,synthetic_demo_data
+REV0122,The floor near our table was dirty.,3,Dwarka,2026-09-02,Yelp,synthetic_demo_data
+REV0123,"The restaurant was busy, but the wait was longer than expected.",2,Hauz Khas,2026-10-23,Tripadvisor,synthetic_demo_data
+REV0124,The server was polite and handled our request well.,5,Noida Sector 18,2026-09-04,Google,synthetic_demo_data
+REV0125,The portion was small for the price.,2,Connaught Place,2026-10-16,Yelp,synthetic_demo_data
+REV0126,"The restaurant was busy, but the wait was longer than expected.",3,Dwarka,2026-09-12,Tripadvisor,synthetic_demo_data
+REV0127,One item was missing from our takeaway order.,2,Hauz Khas,2026-09-05,Google,synthetic_demo_data
+REV0128,Great flavors and generous portions. I would visit again.,5,Noida Sector 18,2026-10-11,Yelp,synthetic_demo_data
+REV0129,"Food was good, but we waited 47 minutes for our order.",2,Connaught Place,2026-10-12,Tripadvisor,synthetic_demo_data
+REV0130,"Our order arrived late, although the staff apologized.",3,Dwarka,2026-10-04,Google,synthetic_demo_data
+REV0131,"Food was good, but we waited 52 minutes for our order.",2,Hauz Khas,2026-09-23,Yelp,synthetic_demo_data
+REV0132,"Food was good, but we waited 48 minutes for our order.",2,Noida Sector 18,2026-09-11,Tripadvisor,synthetic_demo_data
+REV0133,The chicken was overcooked and quite dry.,2,Connaught Place,2026-10-18,Google,synthetic_demo_data
+REV0134,The chicken was overcooked and quite dry.,2,Dwarka,2026-10-23,Yelp,synthetic_demo_data
+REV0135,The dining area and washroom were clean.,5,Hauz Khas,2026-09-25,Tripadvisor,synthetic_demo_data
+REV0136,Great flavors and generous portions. I would visit again.,5,Noida Sector 18,2026-09-28,Google,synthetic_demo_data
+REV0137,The pasta was cold when it reached our table.,3,Connaught Place,2026-10-23,Yelp,synthetic_demo_data
+REV0138,The food tasted fresh and was cooked perfectly.,5,Dwarka,2026-09-24,Tripadvisor,synthetic_demo_data
+REV0139,The floor near our table was dirty.,2,Hauz Khas,2026-10-17,Google,synthetic_demo_data
+REV0140,Our table was sticky and had not been cleaned properly.,3,Noida Sector 18,2026-09-18,Yelp,synthetic_demo_data
+REV0141,The food tasted fresh and was cooked perfectly.,5,Connaught Place,2026-09-06,Tripadvisor,synthetic_demo_data
+REV0142,The dining area and washroom were clean.,5,Dwarka,2026-10-09,Google,synthetic_demo_data
+REV0143,The dining area and washroom were clean.,5,Hauz Khas,2026-09-19,Yelp,synthetic_demo_data
+REV0144,One item was missing from our takeaway order.,2,Noida Sector 18,2026-10-05,Tripadvisor,synthetic_demo_data
+REV0145,Everything we ordered arrived correctly.,5,Connaught Place,2026-09-08,Google,synthetic_demo_data
+REV0146,Everything we ordered arrived correctly.,5,Dwarka,2026-09-29,Yelp,synthetic_demo_data
+REV0147,The chicken was overcooked and quite dry.,2,Hauz Khas,2026-09-03,Tripadvisor,synthetic_demo_data
+REV0148,"Food was good, but we waited 51 minutes for our order.",3,Noida Sector 18,2026-10-17,Google,synthetic_demo_data
+REV0149,"Our order arrived late, although the staff apologized.",3,Connaught Place,2026-09-27,Yelp,synthetic_demo_data
+REV0150,The pasta was cold when it reached our table.,3,Dwarka,2026-10-11,Tripadvisor,synthetic_demo_data
+REV0151,The team was friendly and welcoming.,5,Hauz Khas,2026-10-10,Google,synthetic_demo_data
+REV0152,Our table was sticky and had not been cleaned properly.,2,Noida Sector 18,2026-09-07,Yelp,synthetic_demo_data
+REV0153,The portion was small for the price.,2,Connaught Place,2026-09-24,Tripadvisor,synthetic_demo_data
+REV0154,Our table was sticky and had not been cleaned properly.,2,Dwarka,2026-10-09,Google,synthetic_demo_data
+REV0155,The dining area and washroom were clean.,5,Hauz Khas,2026-10-12,Yelp,synthetic_demo_data
+REV0156,The chicken was overcooked and quite dry.,2,Noida Sector 18,2026-09-10,Tripadvisor,synthetic_demo_data
+REV0157,The bill included an unexpected charge.,2,Connaught Place,2026-10-15,Google,synthetic_demo_data
+REV0158,Great flavors and generous portions. I would visit again.,5,Dwarka,2026-09-25,Yelp,synthetic_demo_data
+REV0159,"The restaurant was busy, but the wait was longer than expected.",2,Hauz Khas,2026-09-27,Tripadvisor,synthetic_demo_data
+REV0160,The food tasted fresh and was cooked perfectly.,5,Noida Sector 18,2026-09-10,Google,synthetic_demo_data
+REV0161,"Our order arrived late, although the staff apologized.",3,Connaught Place,2026-09-11,Yelp,synthetic_demo_data
+REV0162,We received the wrong dish and had to ask for it to be replaced.,2,Dwarka,2026-10-03,Tripadvisor,synthetic_demo_data
+REV0163,Service was extremely slow during dinner. It took 32 minutes to get our food.,1,Hauz Khas,2026-10-17,Google,synthetic_demo_data
+REV0164,The dining area and washroom were clean.,5,Noida Sector 18,2026-10-07,Yelp,synthetic_demo_data
+REV0165,"Our order arrived late, although the staff apologized.",3,Connaught Place,2026-10-11,Tripadvisor,synthetic_demo_data
+REV0166,The chicken was overcooked and quite dry.,2,Dwarka,2026-10-17,Google,synthetic_demo_data
+REV0167,The team was friendly and welcoming.,5,Hauz Khas,2026-09-24,Yelp,synthetic_demo_data
+REV0168,The floor near our table was dirty.,2,Noida Sector 18,2026-10-17,Tripadvisor,synthetic_demo_data
+REV0169,Everything we ordered arrived correctly.,3,Connaught Place,2026-09-02,Google,synthetic_demo_data
+REV0170,Good value for money and reasonable prices.,4,Dwarka,2026-10-05,Yelp,synthetic_demo_data
+REV0171,The food tasted fresh and was cooked perfectly.,3,Hauz Khas,2026-10-04,Tripadvisor,synthetic_demo_data
+REV0172,Everything we ordered arrived correctly.,5,Noida Sector 18,2026-09-17,Google,synthetic_demo_data
+REV0173,Service was extremely slow during dinner. It took 33 minutes to get our food.,1,Connaught Place,2026-09-29,Yelp,synthetic_demo_data
+REV0174,Good value for money and reasonable prices.,4,Dwarka,2026-10-05,Tripadvisor,synthetic_demo_data
+REV0175,Staff seemed rushed and did not respond when we asked for help.,2,Hauz Khas,2026-09-16,Google,synthetic_demo_data
+REV0176,The team was friendly and welcoming.,3,Noida Sector 18,2026-10-18,Yelp,synthetic_demo_data
+REV0177,The floor near our table was dirty.,2,Connaught Place,2026-10-23,Tripadvisor,synthetic_demo_data
+REV0178,Good value for money and reasonable prices.,4,Dwarka,2026-10-25,Google,synthetic_demo_data
+REV0179,The team was friendly and welcoming.,5,Hauz Khas,2026-09-01,Yelp,synthetic_demo_data
+REV0180,"Food was good, but we waited 40 minutes for our order.",2,Noida Sector 18,2026-10-13,Tripadvisor,synthetic_demo_data
+REV0181,The bill included an unexpected charge.,2,Connaught Place,2026-09-14,Google,synthetic_demo_data
+REV0182,Staff seemed rushed and did not respond when we asked for help.,2,Dwarka,2026-09-05,Yelp,synthetic_demo_data
+REV0183,The server was polite and handled our request well.,5,Hauz Khas,2026-09-14,Tripadvisor,synthetic_demo_data
+REV0184,We received the wrong dish and had to ask for it to be replaced.,3,Noida Sector 18,2026-09-03,Google,synthetic_demo_data
+REV0185,The floor near our table was dirty.,2,Connaught Place,2026-09-01,Yelp,synthetic_demo_data
+REV0186,The team was friendly and welcoming.,3,Dwarka,2026-10-15,Tripadvisor,synthetic_demo_data
+REV0187,The pasta was cold when it reached our table.,2,Hauz Khas,2026-09-25,Google,synthetic_demo_data
+REV0188,We received the wrong dish and had to ask for it to be replaced.,3,Noida Sector 18,2026-10-08,Yelp,synthetic_demo_data
+REV0189,The chicken was overcooked and quite dry.,2,Connaught Place,2026-09-15,Tripadvisor,synthetic_demo_data
+REV0190,The server was polite and handled our request well.,5,Dwarka,2026-09-20,Google,synthetic_demo_data
+REV0191,The chicken was overcooked and quite dry.,2,Hauz Khas,2026-09-07,Yelp,synthetic_demo_data
+REV0192,The portion was small for the price.,3,Noida Sector 18,2026-09-11,Tripadvisor,synthetic_demo_data
+REV0193,The food tasted fresh and was cooked perfectly.,5,Connaught Place,2026-09-30,Google,synthetic_demo_data
+REV0194,Great flavors and generous portions. I would visit again.,3,Dwarka,2026-09-23,Yelp,synthetic_demo_data
+REV0195,Our table was sticky and had not been cleaned properly.,2,Hauz Khas,2026-10-11,Tripadvisor,synthetic_demo_data
+REV0196,One item was missing from our takeaway order.,2,Noida Sector 18,2026-10-21,Google,synthetic_demo_data
+REV0197,"Food was good, but we waited 36 minutes for our order.",3,Connaught Place,2026-09-20,Yelp,synthetic_demo_data
+REV0198,"Food was good, but we waited 34 minutes for our order.",2,Dwarka,2026-09-25,Tripadvisor,synthetic_demo_data
+REV0199,The food tasted fresh and was cooked perfectly.,5,Hauz Khas,2026-10-23,Google,synthetic_demo_data
+REV0200,The floor near our table was dirty.,2,Noida Sector 18,2026-09-16,Yelp,synthetic_demo_data
+REV0201,"Our order arrived late, although the staff apologized.",3,Connaught Place,2026-10-19,Tripadvisor,synthetic_demo_data
+REV0202,Everything we ordered arrived correctly.,5,Dwarka,2026-10-11,Google,synthetic_demo_data
+REV0203,Our table was sticky and had not been cleaned properly.,3,Hauz Khas,2026-09-17,Yelp,synthetic_demo_data
+REV0204,The food tasted fresh and was cooked perfectly.,5,Noida Sector 18,2026-10-19,Tripadvisor,synthetic_demo_data
+REV0205,We received the wrong dish and had to ask for it to be replaced.,2,Connaught Place,2026-10-05,Google,synthetic_demo_data
+REV0206,One item was missing from our takeaway order.,2,Dwarka,2026-10-25,Yelp,synthetic_demo_data
+REV0207,The team was friendly and welcoming.,5,Hauz Khas,2026-09-26,Tripadvisor,synthetic_demo_data
+REV0208,Our table was sticky and had not been cleaned properly.,2,Noida Sector 18,2026-09-06,Google,synthetic_demo_data
+REV0209,The bill included an unexpected charge.,2,Connaught Place,2026-09-08,Yelp,synthetic_demo_data
+REV0210,The portion was small for the price.,3,Dwarka,2026-09-06,Tripadvisor,synthetic_demo_data
+REV0211,The chicken was overcooked and quite dry.,2,Hauz Khas,2026-09-15,Google,synthetic_demo_data
+REV0212,The chicken was overcooked and quite dry.,3,Noida Sector 18,2026-09-03,Yelp,synthetic_demo_data
+REV0213,Great flavors and generous portions. I would visit again.,5,Connaught Place,2026-09-25,Tripadvisor,synthetic_demo_data
+REV0214,The pasta was cold when it reached our table.,2,Dwarka,2026-09-22,Google,synthetic_demo_data
+REV0215,Service was extremely slow during dinner. It took 28 minutes to get our food.,1,Hauz Khas,2026-09-09,Yelp,synthetic_demo_data
+REV0216,We received the wrong dish and had to ask for it to be replaced.,2,Noida Sector 18,2026-09-27,Tripadvisor,synthetic_demo_data
+REV0217,The chicken was overcooked and quite dry.,2,Connaught Place,2026-09-30,Google,synthetic_demo_data
+REV0218,The food tasted fresh and was cooked perfectly.,5,Dwarka,2026-09-14,Yelp,synthetic_demo_data
+REV0219,The dining area and washroom were clean.,5,Hauz Khas,2026-09-14,Tripadvisor,synthetic_demo_data
+REV0220,"The restaurant was busy, but the wait was longer than expected.",2,Noida Sector 18,2026-09-26,Google,synthetic_demo_data
+REV0221,"Our order arrived late, although the staff apologized.",3,Connaught Place,2026-09-18,Yelp,synthetic_demo_data
+REV0222,The portion was small for the price.,3,Dwarka,2026-09-01,Tripadvisor,synthetic_demo_data
+REV0223,"Food was good, but we waited 28 minutes for our order.",2,Hauz Khas,2026-09-27,Google,synthetic_demo_data
+REV0224,Our table was sticky and had not been cleaned properly.,2,Noida Sector 18,2026-10-03,Yelp,synthetic_demo_data
+REV0225,Service was extremely slow during dinner. It took 51 minutes to get our food.,1,Connaught Place,2026-09-26,Tripadvisor,synthetic_demo_data
+REV0226,The server was polite and handled our request well.,5,Dwarka,2026-10-18,Google,synthetic_demo_data
+REV0227,Good value for money and reasonable prices.,4,Hauz Khas,2026-10-21,Yelp,synthetic_demo_data
+REV0228,Great flavors and generous portions. I would visit again.,5,Noida Sector 18,2026-10-15,Tripadvisor,synthetic_demo_data
+REV0229,The server was polite and handled our request well.,5,Connaught Place,2026-09-29,Google,synthetic_demo_data
+REV0230,The food tasted fresh and was cooked perfectly.,3,Dwarka,2026-09-05,Yelp,synthetic_demo_data
+REV0231,The food tasted fresh and was cooked perfectly.,5,Hauz Khas,2026-10-07,Tripadvisor,synthetic_demo_data
+REV0232,The team was friendly and welcoming.,5,Noida Sector 18,2026-10-11,Google,synthetic_demo_data
+REV0233,The server was polite and handled our request well.,3,Connaught Place,2026-10-13,Yelp,synthetic_demo_data
+REV0234,Our table was sticky and had not been cleaned properly.,2,Dwarka,2026-09-10,Tripadvisor,synthetic_demo_data
+REV0235,The portion was small for the price.,3,Hauz Khas,2026-10-01,Google,synthetic_demo_data
+REV0236,The floor near our table was dirty.,2,Noida Sector 18,2026-09-07,Yelp,synthetic_demo_data
+REV0237,Staff seemed rushed and did not respond when we asked for help.,2,Connaught Place,2026-09-11,Tripadvisor,synthetic_demo_data
+REV0238,Service was extremely slow during dinner. It took 38 minutes to get our food.,1,Dwarka,2026-10-03,Google,synthetic_demo_data
+REV0239,The floor near our table was dirty.,3,Hauz Khas,2026-09-03,Yelp,synthetic_demo_data
+REV0240,The chicken was overcooked and quite dry.,2,Noida Sector 18,2026-10-19,Tripadvisor,synthetic_demo_data

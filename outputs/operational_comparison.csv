@@ -1,0 +1,6 @@
+branch,date,total_reviews,negative_reviews,negative_percentage,orders_count,staff_count,avg_order_prep_time_minutes,refunds_count,source_type
+Connaught Place,2026-09-05,1,1,100.0,105,5,41.2,3,synthetic_demo_data
+Connaught Place,2026-09-06,1,1,100.0,121,4,35.7,7,synthetic_demo_data
+Dwarka,2026-10-24,1,0,0.0,106,4,23.9,0,synthetic_demo_data
+Hauz Khas,2026-10-17,1,0,0.0,102,6,22.5,1,synthetic_demo_data
+Noida Sector 18,2026-10-21,1,1,100.0,79,6,21.4,1,synthetic_demo_data
